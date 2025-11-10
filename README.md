@@ -1,7 +1,7 @@
 ![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
-# 🧠 Actividad Sumativa 1: Realizando validación, excepciones y relaciones entre clases
+# Actividad Sumativa 1: Realizando validación, excepciones y relaciones entre clases
 
-## 👤 Autor del proyecto
+## Autor del proyecto
 - **Nombre completo:** Ignacio Araya
 - **Sección:** PRY2202-003A
 - **Carrera:** Analista Programador Computacional
@@ -9,16 +9,16 @@
 
 ---
 
-## 📘 Descripción general del sistema
+## Descripción general del sistema
 El sistema Gestión de Personas modela una estructura básica de información sobre individuos asociados a una organización, diferenciando entre personas genéricas, clientes y empleados.
 Su objetivo es ilustrar el uso de los principios fundamentales de programación orientada a objetos (POO), tales como herencia, composición, encapsulación y reutilización de código.
 
 ---
 
-## 🧱 Estructura general del proyecto
+## Estructura general del proyecto
 
 ```plaintext
-📁 src/
+src/
 ├── app/         # Clase principal con el método main
 ├── config/      # Configuraciones globales, enums y constantes
 ├── model/       # Clases de dominio (Persona, Cliente, Empleado, Rut, Direccion)
@@ -27,12 +27,12 @@ Su objetivo es ilustrar el uso de los principios fundamentales de programación 
 
 ---
 
-## ⚙️ Instrucciones para clonar y ejecutar el proyecto
+## Instrucciones para clonar y ejecutar el proyecto
 
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/usuario/repositorio-evaluacion-final.git
+git clone https://github.com/postcode-x/Exp1_S3.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -42,8 +42,9 @@ git clone https://github.com/usuario/repositorio-evaluacion-final.git
 
 ---
 
-**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
-**Fecha de entrega:** \[10/11/2025]
+**Repositorio GitHub:** https://github.com/postcode-x/Exp1_S3
+
+**Fecha de entrega:** 10/11/2025
 
 ---
 
