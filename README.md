@@ -11,7 +11,7 @@
 
 ## Descripción general del sistema
 El sistema Gestión de Personas modela una estructura básica de información sobre individuos asociados a una organización, diferenciando entre personas genéricas, clientes y empleados.
-Su objetivo es ilustrar el uso de los principios fundamentales de programación orientada a objetos (POO), tales como herencia, composición, encapsulación y reutilización de código.
+Su objetivo es ilustrar el uso de los principios fundamentales de POO, tales como herencia, composición, encapsulación, además del manejo de excepciones y reutilización de código.
 
 ---
 
